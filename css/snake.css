@@ -1,0 +1,16 @@
+body {
+  text-align:center;
+  font-family: helvetica;
+}
+canvas {
+  position: absolute;
+  border: 2px solid black;
+  top: 60px;
+  left: 0px;
+}
+#young{
+  width: 524px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
